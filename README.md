@@ -22,6 +22,21 @@ You will then need to add your API key in your application descriptor twice, onc
 
         <key>CrashlyticsAPIKey</key>
         <string>{YOUR_API_KEY}</string>
+        
+        <key>Fabric</key>
+			<dict>
+				<key>APIKey</key>
+				<string>130bbc0b7ed5fa96a08af558809aa6b74cc2dc08</string>
+				<key>Kits</key>
+				<array>
+					<dict>
+						<key>KitInfo</key>
+						<dict/>
+						<key>KitName</key>
+						<string>Crashlytics</string>
+					</dict>
+				</array>
+			</dict>
 
     ]]></InfoAdditions>
 
